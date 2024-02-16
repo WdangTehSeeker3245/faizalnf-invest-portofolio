@@ -1,0 +1,22 @@
+{
+  "name": "faizal-investment",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "chart.js": "^4.4.0",
+    "vue": "^3.3.4",
+    "vue-chartjs": "^5.2.0",
+    "vue-google-charts": "^1.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
